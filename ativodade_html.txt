@@ -1,0 +1,18 @@
+4 <img>
+7 <p>
+2 <nav>
+5 <h1>
+6 <h2>
+3 <main>
+1 <header>
+
+10 <ul>
+11 <li>
+8  <a>
+9  <footer>
+
+14 <input>
+12 <form>
+15 <select>
+16 <button>
+13 <label>
